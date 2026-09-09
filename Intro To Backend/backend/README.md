@@ -1,1 +1,0 @@
-# I am doing a crash course on backend with freeCodeCamp, kind of deviating from the source material, but no biggie, i hope. 
